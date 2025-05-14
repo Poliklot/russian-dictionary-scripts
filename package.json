@@ -1,6 +1,6 @@
 {
-  "name": "scripts",
-  "version": "1.0.0",
+  "name": "russian-dictionary-scripts",
+  "version": "1.0.1",
   "description": "",
   "main": "cli.js",
   "scripts": {
