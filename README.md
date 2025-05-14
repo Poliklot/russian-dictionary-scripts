@@ -7,7 +7,7 @@
 1. Убедитесь, что у вас установлен Node.js (версия 14 или выше).
 2. Склонируйте репозиторий:
    ```bash
-   git clone <URL_репозитория>
+   git clone https://github.com/Poliklot/russian-dictionary-scripts.git
    ```
 3. Установите зависимости:
    ```bash
@@ -64,4 +64,4 @@ node cli.js <команда> [параметры]
 
 ## Лицензия
 
-MIT License. Подробности в файле `LICENSE`.
+MIT License. Подробности в файле [LICENSE](LICENSE).
